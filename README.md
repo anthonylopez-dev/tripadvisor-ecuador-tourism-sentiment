@@ -101,7 +101,7 @@ Dashboard Looker Studio + Informe PDF
 │   ├── raw/           ← Reseñas originales sin procesar
 │   └── processed/     ← Dataset limpio con sentimientos
 ├── notebooks/         ← 4 notebooks secuenciales
-├── dashboard/         ← Dashboard Looker Studio (PDF)
+├── dashboard/         ← Dashboard HTML5 · CSS3 · JavaScript · Chart.js
 ├── report/            ← Informe final PDF
 ├── images/            ← 6 visualizaciones
 └── requirements.txt
