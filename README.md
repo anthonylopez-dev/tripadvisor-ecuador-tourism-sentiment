@@ -52,7 +52,7 @@ Validación contra rating TripAdvisor
 EDA — 6 visualizaciones
 │
 ▼
-Dashboard Looker Studio + Informe PDF
+Dashboard HTML5 · CSS3 · JavaScript · Chart.js + Informe PDF
 ```
 
 ---
