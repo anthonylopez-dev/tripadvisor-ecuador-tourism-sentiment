@@ -34,7 +34,7 @@
 
 ## 🗺️ Pipeline del proyecto
 
-Dataset TripAdvisor (43 reseñas, 8 destinos)
+```Dataset TripAdvisor (43 reseñas, 8 destinos)
 │
 ▼
 Limpieza de texto + detección de idioma
@@ -53,6 +53,7 @@ EDA — 6 visualizaciones
 │
 ▼
 Dashboard Looker Studio + Informe PDF
+```
 
 ---
 
@@ -95,7 +96,7 @@ Dashboard Looker Studio + Informe PDF
 
 ---
 
-## 📁 Estructura del proyecto
+```## 📁 Estructura del proyecto
 
 ├── data/
 │   ├── raw/           ← Reseñas originales sin procesar
@@ -105,6 +106,7 @@ Dashboard Looker Studio + Informe PDF
 ├── report/            ← Informe final PDF
 ├── images/            ← 6 visualizaciones
 └── requirements.txt
+```
 
 ---
 
